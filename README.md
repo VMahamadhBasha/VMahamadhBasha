@@ -1,23 +1,25 @@
 <h1 align="center">Hi 👋, I'm V Mahammad Basha</h1>
+
 <h3 align="center">
 ServiceNow Developer | Full Stack Developer | Java Enthusiast | Data Analytics Enthusiast
 </h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=VMahamadhBasha&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=VMahamadhBasha&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
 
 # 🚀 About Me
 
-- 🎓 B.Tech Computer Science Student
-- 🌱 Currently learning **ServiceNow, Spring Boot, System Design, and Advanced DSA**
+- 🎓 B.Tech Computer Science Student (CGPA: 9.1)
+- 🚀 Infosys Springboard Virtual Intern
+- 🌱 Currently learning ServiceNow, Spring Boot, System Design, and Advanced DSA
 - 🔭 Working on Full Stack and ServiceNow Projects
-- 💡 Interested in Workflow Automation, Backend Development, and Data Analytics
-- 🧩 Solved **530+ LeetCode Problems**
-- 🤝 Open to Collaboration and Internship Opportunities
-- 📫 Reach me at **vmahamadhbasha@gmail.com**
+- 💡 Passionate about Workflow Automation, Backend Development, and Data Analytics
+- 🧩 Solved 530+ LeetCode Problems
+- 🤝 Open to Internship and Software Developer Opportunities
+- 📫 Reach me at: **vmahamadhbasha@gmail.com**
 - ⚡ Fun Fact: **I debug more than I code 😄**
 
 ---
@@ -25,6 +27,7 @@ ServiceNow Developer | Full Stack Developer | Java Enthusiast | Data Analytics E
 # 🌐 Connect With Me
 
 <p align="left">
+
 <a href="https://linkedin.com/in/v-mahamadh-basha-1a0bb0389">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
@@ -36,6 +39,7 @@ ServiceNow Developer | Full Stack Developer | Java Enthusiast | Data Analytics E
 <a href="https://github.com/VMahamadhBasha">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
+
 </p>
 
 ---
@@ -45,7 +49,7 @@ ServiceNow Developer | Full Stack Developer | Java Enthusiast | Data Analytics E
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,js,python,c,mysql" />
+<img src="https://skillicons.dev/icons?i=java,python,js,c,mysql" />
 </p>
 
 ### Frontend
@@ -60,7 +64,7 @@ ServiceNow Developer | Full Stack Developer | Java Enthusiast | Data Analytics E
 <img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
 </p>
 
-### Databases & Cloud
+### Database & Cloud
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
@@ -74,57 +78,40 @@ ServiceNow Developer | Full Stack Developer | Java Enthusiast | Data Analytics E
 
 ---
 
-# 💼 Internships & Experience
+# 💼 Experience
 
-## ☁️ ServiceNow Developer Intern
-### SmartBridge | Virtual Internship
+## 🚀 Infosys Springboard 6.0 | Virtual Intern
+### Jan 2026 – Mar 2026
 
-**Technologies:** ServiceNow • JavaScript • GlideRecord • Flow Designer
+### Project: YouTube Channel Performance Analysis
 
-- Developed and customized applications on ServiceNow.
-- Worked with Client Scripts, Business Rules, and UI Policies.
-- Automated workflows using Flow Designer.
-- Implemented database operations using GlideRecord.
-- Gained practical exposure to ITSM modules.
+**Tech Stack:** Python • Streamlit • YouTube Data API v3 • Data Visualization
 
----
+### Key Contributions
 
-## 📊 Data Analytics Intern
-### AICTE Internship
-
-**Technologies:** Snowflake • SQL • Power BI
-
-- Built interactive dashboards for job market analysis.
-- Implemented Dynamic Tables in Snowflake.
-- Performed data cleaning and transformation.
-- Generated insights from recruitment datasets.
-- Created reports and visualizations using Power BI.
-
----
-
-## 💻 Full Stack Developer Intern
-
-**Technologies:** Java • Spring Boot • React • MySQL
-
-- Developed REST APIs using Spring Boot.
-- Built responsive frontend applications with React.
-- Integrated backend services with databases.
-- Implemented CRUD operations and authentication.
-- Used Git and GitHub for version control.
+- Developed an interactive dashboard to analyze YouTube channel performance.
+- Integrated YouTube Data API v3 for fetching channel statistics and engagement metrics.
+- Processed and analyzed views, likes, subscribers, and video metrics.
+- Built visualizations to generate actionable insights.
+- Designed a user-friendly interface using Streamlit.
+- Applied data processing and dashboard development techniques.
 
 ---
 
 # 📂 Featured Projects
 
-## 🚀 Clahan Group Project
+## 🚀 HireMe – Job & Recruitment Portal
 
-**Tech Stack:** Spring Boot • React • MySQL • REST APIs
+**Tech Stack:** Java • Spring Boot • React • MySQL • REST APIs
+
+### Features
 
 - Secure authentication and authorization.
-- Responsive UI with React.
-- RESTful backend with Spring Boot.
-- Database integration with MySQL.
-- CRUD operations and role-based access.
+- Role-based access control.
+- Responsive frontend using React.
+- RESTful APIs with Spring Boot.
+- Database integration using MySQL.
+- CRUD operations and scalable architecture.
 
 ---
 
@@ -132,9 +119,11 @@ ServiceNow Developer | Full Stack Developer | Java Enthusiast | Data Analytics E
 
 **Tech Stack:** Snowflake • SQL • Power BI
 
+### Features
+
 - Data warehouse implementation using Snowflake.
-- Automated pipelines with Dynamic Tables.
-- Interactive Power BI dashboards.
+- Dynamic Tables for automated data pipelines.
+- Interactive dashboards with Power BI.
 - Salary and recruitment trend analysis.
 - Real-time business insights.
 
@@ -142,14 +131,14 @@ ServiceNow Developer | Full Stack Developer | Java Enthusiast | Data Analytics E
 
 ## ⚙️ ServiceNow Learning Repository
 
-Topics Covered:
+### Topics Covered
 
 - Client Scripts
 - Business Rules
 - GlideRecord API
 - Script Includes
-- Flow Designer
 - UI Policies
+- Flow Designer
 - Service Catalog
 - Transform Maps
 - REST Integrations
@@ -158,16 +147,16 @@ Topics Covered:
 
 ## 🧩 LeetCode Solutions Repository
 
-**Solved Problems: 530+**
+### Solved Problems: 530+
 
-Topics Covered:
+### Topics Covered
 
 - Arrays
 - Strings
 - Sliding Window
 - Stack
 - Queue
-- Linked Lists
+- Linked List
 - Trees
 - Graphs
 - Dynamic Programming
@@ -176,28 +165,27 @@ Topics Covered:
 
 ## 🌐 Portfolio Website
 
-**Tech Stack:** HTML • CSS • JavaScript
+### Tech Stack
 
-Features:
+HTML • CSS • JavaScript
+
+### Features
 
 - Responsive Design
 - Project Showcase
 - Contact Information
-- GitHub and LinkedIn Integration
+- GitHub Integration
+- LinkedIn Integration
 
 ---
 
 # 🏆 Certifications
 
-✔ ServiceNow Certified System Administrator (CSA)
+✔ Python Certification – PrepInsta
+
+✔ Data Structures & Algorithms using Python – PrepInsta
 
 ✔ ServiceNow Micro-Certifications
-
-✔ Java Programming Certifications
-
-✔ Snowflake Hands-on Training
-
-✔ Power BI Certifications
 
 ✔ Full Stack Development Certifications
 
@@ -205,15 +193,15 @@ Features:
 
 # 🏅 Achievements
 
-🏆 Solved 530+ LeetCode Problems
+🏆 First Prize – Reverse Coding Challenge (Sarvagnya 2K25, JNTU Pulivendula)
 
-🚀 Built Multiple Full Stack Applications
+🧩 Solved 530+ LeetCode Problems
 
-📈 Created Data Analytics Dashboards using Snowflake and Power BI
+📈 Built Analytics Dashboards and Full Stack Applications
 
 ☁️ Actively Learning ServiceNow Development
 
-🌱 Continuously Learning System Design and Backend Development
+🚀 Passionate About Open Source and Backend Development
 
 ---
 
@@ -221,11 +209,11 @@ Features:
 
 ☁️ ServiceNow Development
 
-⚙️ Spring Boot & Microservices
+⚙️ Spring Boot and REST APIs
 
 🧩 Data Structures & Algorithms
 
-📊 Snowflake & Power BI
+📊 Snowflake and Power BI
 
 🚀 Open Source Contributions
 
@@ -234,12 +222,17 @@ Features:
 # 📈 GitHub Statistics
 
 <p align="center">
+
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=VMahamadhBasha&show_icons=true&theme=tokyonight"/>
+
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=VMahamadhBasha&theme=tokyonight"/>
+
 </p>
 
 <p align="center">
+
 <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VMahamadhBasha&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
