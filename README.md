@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm V Mahammad Basha</h1>
 
 <h3 align="center">
-ServiceNow Developer | Full Stack Developer | Java Enthusiast | Data Analytics Enthusiast
+Certified CSA and CAD | Full Stack Developer | DSA  | 
 </h3>
 
 <p align="center">
@@ -11,10 +11,10 @@ ServiceNow Developer | Full Stack Developer | Java Enthusiast | Data Analytics E
 ---
 
 # 🚀 About Me
-
+-  Certified both CSA and CAD
 - 🎓 B.Tech Computer Science Student (CGPA: 9.1)
 - 🚀 Infosys Springboard Virtual Intern
-- 🌱 Currently learning ServiceNow, Spring Boot, System Design, and Advanced DSA
+- 🌱 Currently Spring Boot, System Design, and Advanced DSA
 - 🔭 Working on Full Stack and ServiceNow Projects
 - 💡 Passionate about Workflow Automation, Backend Development, and Data Analytics
 - 🧩 Solved 530+ LeetCode Problems
